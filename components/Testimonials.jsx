@@ -16,13 +16,13 @@ import { fadeIn } from '../variants';
 const testimonialData = [
     {
         img: '/testimonials/img-1.png',
-        message: 'Veloura made planning my dream vacation a breeze! The selection of luxury hotels was impressive, and the personalized assistance throughout the booking process was unmatched. Not only did Veloura find me the best deals on exquisite accommodations, but their attentive support and seamless service added an extra layer of comfort to my travel experience. Thanks to Veloura, my getaway exceeded all expectations, as I will undoubtedly return to them for future travel plans!',
+        message: '"Veloura made planning my dream vacation a breeze! The selection of luxury hotels was impressive, and the personalized assistance throughout the booking process was unmatched. Not only did Veloura find me the best deals on exquisite accommodations, but their attentive support and seamless service added an extra layer of comfort to my travel experience. Thanks to Veloura, my getaway exceeded all expectations, as I will undoubtedly return to them for future travel plans!"',
         personName: 'Daniel Tanaka',
         location: 'San Francisco, California, USA',
     },
     {
         img: '/testimonials/img-2.png',
-        message: 'Veloura is a game-changer in the world of travel! Their platform not only curated an impressive array of 5-star resorts and hotels but also ensured that I got the best value for my money. The flexibility in trip planning, combined with their commitment to delivering top-notch services, made my vacation stress-free and unforgettable. Dedication to excellence shines through in every aspect of their service, making them my go-to for finding the perfect blend of luxury and affordability in my travels.',
+        message: '"Veloura is a game-changer in the world of travel! Their platform not only curated an impressive array of 5-star resorts and hotels but also ensured that I got the best value for my money. The flexibility in trip planning, combined with their commitment to delivering top-notch services, made my vacation stress-free and unforgettable. Dedication to excellence shines through in every aspect of their service, making them my go-to for finding the perfect blend of luxury and affordability in my travels."',
         personName: 'Isabella Thompson',
         location: 'Manhattan, New York, NY',
     },

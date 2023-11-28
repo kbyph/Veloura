@@ -1,7 +1,7 @@
 # Veloura - Next.js | React.js | Tailwind.css | Javascript - Frontend Project
 
 ## Overview of Project
-Luxury travel web project inspired by vintage magazines ans blogs.
+Luxury travel web project inspired by vintage magazines and blogs.
 
 
 ## Resources

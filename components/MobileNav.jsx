@@ -20,7 +20,7 @@ const MobileNav = () => {
                 {/*Company Logo*/}
                 <Link href='/' className='mb-24'>
                 <Image 
-                    src='/footer/logo.svg' 
+                    src='/footer/logo.png' 
                     width={90} 
                     height={46} 
                     alt='' 

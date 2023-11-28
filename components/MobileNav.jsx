@@ -21,8 +21,8 @@ const MobileNav = () => {
                 <Link href='/' className='mb-24'>
                 <Image 
                     src='/footer/logo.png' 
-                    width={90} 
-                    height={46} 
+                    width={180} 
+                    height={60} 
                     alt='' 
                     priority
                 />

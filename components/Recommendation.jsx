@@ -19,7 +19,7 @@ const recommendationData = [
     desc: 'Experience the epitome of luxury at Nobu Hotel Los Cabos, where sleek design meets Pacific tranquility. Indulge in world-class dining, breathtaking ocean views, and a harmonious blend of sophistication and relaxation on the pristine shores of the Baja Peninsula.',
     price: 400,
     testimonial: {
-      message: 'Nobu Hotel Los Cabos exceeded all expectations. The fusion of sophisticated design, top-notch amenities, and the exceptional Nobu dining experience made our stay an unforgettable blend of luxury and indulgence.',
+      message: '"Nobu Hotel Los Cabos exceeded all expectations. The fusion of sophisticated design, top-notch amenities, and the exceptional Nobu dining experience made our stay an unforgettable blend of luxury and indulgence."',
       personName: 'Emily Rodriguez',
     },
   },
@@ -30,7 +30,7 @@ const recommendationData = [
     desc: 'Four Seasons Resort Maui at Wailea is a tropical paradise with stunning oceanfront accommodations. Enjoy the beauty of Hawaii with luxurious amenities and world-class service.',
     price: 950,
     testimonial: {
-      message: 'A haven of tranquility! Four Seasons Maui at Wailea offers a blend of luxury and Hawaiian serenity. The lush gardens, attentive staff, and the mesmerizing sunset views made our stay an extraordinary escape.',
+      message: '"A haven of tranquility! Four Seasons Maui at Wailea offers a blend of luxury and Hawaiian serenity. The lush gardens, attentive staff, and the mesmerizing sunset views made our stay an extraordinary escape."',
       personName: 'David Patel',
     },
   },
@@ -41,7 +41,7 @@ const recommendationData = [
     desc: 'Amanemu is a tranquil retreat in the Japanese countryside, overlooking Ago Bay. Experience traditional Japanese architecture, natural hot springs, and serene landscapes.',
     price: 1400,
     testimonial: {
-      message: 'Amanemu is a Japanese masterpiece! From the serene hot springs to the minimalist luxury of the accommodations, every element exuded tranquility and refinement. The integration of traditional Japanese aesthetics, impeccable service, and the calming onsen waters made our stay a truly authentic and luxurious escape.',
+      message: '"Amanemu is a Japanese masterpiece! From the serene hot springs to the minimalist luxury of the accommodations, every element exuded tranquility and refinement. The integration of traditional Japanese aesthetics, impeccable service, and the calming onsen waters made our stay a truly authentic and luxurious escape."',
       personName: 'Michael Anderson',
     },
   },

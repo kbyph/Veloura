@@ -87,7 +87,7 @@ const Recommendation = () => {
                     <Button variant='accent' className='px-[44px]'>Book Now</Button>
                     <div className='text-black'>
                       <span className='font-bold text-2xl'>{hotel.price}</span>
-                      <span className='text-sm'> USD/Night</span>
+                      <span className='text-sm'>USD/Night</span>
                       </div>
                   </div>
                 </div>

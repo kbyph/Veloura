@@ -21,6 +21,7 @@ const recommendationData = [
     testimonial: {
       message: '"Nobu Hotel Los Cabos exceeded all expectations. The fusion of sophisticated design, top-notch amenities, and the exceptional Nobu dining experience made our stay an unforgettable blend of luxury and indulgence."',
       personName: 'Emily Rodriguez',
+      title: 'Travel Writer, Departures Magazine',
     },
   },
   {
@@ -32,6 +33,7 @@ const recommendationData = [
     testimonial: {
       message: '"A haven of tranquility! Four Seasons Maui at Wailea offers a blend of luxury and Hawaiian serenity. The lush gardens, attentive staff, and the mesmerizing sunset views made our stay an extraordinary escape."',
       personName: 'David Patel',
+      title: 'Destination Specialist, Luxury Travel Advisor',
     },
   },
   {
@@ -43,6 +45,7 @@ const recommendationData = [
     testimonial: {
       message: '"Amanemu is a Japanese masterpiece! From the serene hot springs to the minimalist luxury of the accommodations, every element exuded tranquility and refinement. The integration of traditional Japanese aesthetics, impeccable service, and the calming onsen waters made our stay a truly authentic and luxurious escape."',
       personName: 'Michael Anderson',
+      title: 'Travel Feature Contributor, Condé Nast Traveler',
     },
   },
 ];
@@ -109,6 +112,7 @@ const Recommendation = () => {
                       <p className='text-xl font-bold'>
                         {hotel.testimonial.personName}
                       </p>
+                      <p>{hotel.testimonial.title}</p>
                     </div>
                   </div>
                 </div>
